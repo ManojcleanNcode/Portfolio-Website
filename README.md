@@ -1,7 +1,7 @@
 ### Porfolio Website
 
-*HOME
-*ABOUT
-*SKILLS
-*WORKS
-*LOGIN
+* HOME
+* ABOUT
+* SKILLS
+* WORKS
+* LOGIN
