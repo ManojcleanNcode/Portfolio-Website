@@ -5,5 +5,3 @@
 * SKILLS
 * WORKS
 * LOGIN
-
-ProjectPreview-js.png
